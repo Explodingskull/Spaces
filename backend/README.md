@@ -1,5 +1,5 @@
-# spring-reddit-clone
-Reddit clone built using Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, Spring MVC. The frontend is built using Angular - You can find the frontend source code here - https://github.com/SaiUpadhyayula/angular-reddit-clone
+# Spaces - A social forum
+Spaces built using Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, Spring MVC. The frontend is built using Angular.
 
 # Recent Changes
 
@@ -18,8 +18,7 @@ The complete source code for the ![Testing Spring Boot Applications](https://you
 # Tutorial
 https://programmingtechie.com/2019/09/30/build-a-full-stack-reddit-clone-with-spring-boot-and-angular-part-1/
 
-# Front end code
-https://github.com/SaiUpadhyayula/angular-reddit-clone
+
 
 # Screenshots
 1. Home Page
