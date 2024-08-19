@@ -15,12 +15,6 @@ The complete source code for the ![Deploy Spring Boot and Angular to Heroku](htt
 
 The complete source code for the ![Testing Spring Boot Applications](https://youtu.be/--nQfs67zCM) can be found at https://github.com/SaiUpadhyayula/spring-boot-testing-reddit-clone
 
-# Tutorial
-https://programmingtechie.com/2019/09/30/build-a-full-stack-reddit-clone-with-spring-boot-and-angular-part-1/
-
-# Front end code
-https://github.com/SaiUpadhyayula/angular-reddit-clone
-
 # Screenshots
 1. Home Page
 
